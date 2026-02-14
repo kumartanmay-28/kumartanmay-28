@@ -1,28 +1,28 @@
-# Hi, I'm Kumar Tanmay 👋
+# Hi, I'm Kumar Tanmay
 
-## 🚀 PyTorch Contributor | Backend / QA Engineer
+## PyTorch Contributor 
 
 I contribute to PyTorch by fixing upstream test failures, debugging CI issues, and improving backend reliability.
 
 ---
 
-## 🔥 PyTorch Open Source Contributions
+##  PyTorch Open Source Contributions
 
-### ✅ Merged Pull Requests
+###  Merged Pull Requests
 
 https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3Akumartanmay-28+is%3Amerged
 
-### 🐛 Issues Opened
+### Issues Opened
 
 https://github.com/pytorch/pytorch/issues?q=author%3Akumartanmay-28
 
-### 💬 Discussions
+### Discussions
 
 https://github.com/pytorch/pytorch/discussions?discussions_q=author%3Akumartanmay-28
 
 ---
 
-## 📌 Recent GitHub Activity
+## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 
@@ -30,7 +30,7 @@ https://github.com/pytorch/pytorch/discussions?discussions_q=author%3Akumartanma
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumartanmay-28\&show_icons=true)
 
@@ -38,21 +38,17 @@ https://github.com/pytorch/pytorch/discussions?discussions_q=author%3Akumartanma
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-Python • PyTorch • CUDA • Git • Linux • CI/CD • Backend Systems
+Python • PyTorch • CUDA • Git • RHEL • CI/CD • Backend Systems • AI Agents
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 * PyTorch upstream contributions
 * torch.compile and backend testing
 * CI automation and debugging
+* Revamping and improving test coverage for the OpenReg backend
 
----
 
-## 📫 Connect with Me
-
-* GitHub: https://github.com/kumartanmay-28
-* LinkedIn: (add your LinkedIn link here)
