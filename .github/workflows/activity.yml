@@ -5,8 +5,7 @@ on:
   schedule:
   - cron: "0 * * * *"
 
-permissions:
-  write-all
+permissions: write-all
 
 jobs:
   update-readme:
@@ -15,5 +14,6 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - uses: jamesgeorge007/github-activity-readme@v0.4.1
-      env:
-        GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+      with:
+        GH_USERNAME: kumartanmay-28
+        GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
