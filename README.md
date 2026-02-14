@@ -1,4 +1,4 @@
-Hi, I'm Tanmay Kumar 👋
+Hi, I'm Kumar Tanmay 👋
 🚀 PyTorch Contributor | Backend / QA Engineer
 
 I contribute to PyTorch by fixing upstream test failures, debugging CI issues, and improving backend reliability.
