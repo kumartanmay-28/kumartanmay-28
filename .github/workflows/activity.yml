@@ -16,4 +16,5 @@ jobs:
     - uses: jamesgeorge007/github-activity-readme@v0.4.1
       with:
         GH_USERNAME: kumartanmay-28
+      env:
         GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
