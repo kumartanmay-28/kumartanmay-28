@@ -10,7 +10,7 @@ I contribute to PyTorch by fixing upstream test failures, debugging CI issues, a
 
 ###  Merged Pull Requests
 
-https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3Akumartanmay-28+is%3Amerged
+https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3Akumartanmay-28+is%3Aclosed
 
 ### Issues Opened
 
