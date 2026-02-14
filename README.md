@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I'm Tanmay Kumar 👋
+🚀 PyTorch Contributor | Backend / QA Engineer
 
-<!--
-**kumartanmay-28/kumartanmay-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I contribute to PyTorch by fixing upstream test failures, debugging CI issues, and improving backend reliability.
 
-Here are some ideas to get you started:
+🔥 PyTorch Open Source Contributions
+✅ Merged Pull Requests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3Akumartanmay-28+is%3Amerged
+
+🐛 Issues Opened
+
+https://github.com/pytorch/pytorch/issues?q=author%3Akumartanmay-28
+
+💬 Discussions
+
+https://github.com/pytorch/pytorch/discussions?discussions_q=author%3Akumartanmay-28
+
+📌 Recent GitHub Activity
+📊 GitHub Stats
+
+
+
+
+
+
+
+🛠 Tech Stack
+
+Python • PyTorch • CUDA • Git • Linux • CI/CD • Backend Systems
+
+🎯 Current Focus
+
+PyTorch upstream contributions
+
+torch.compile and backend testing
+
+CI automation and debugging
