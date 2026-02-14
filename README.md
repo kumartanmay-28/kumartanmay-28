@@ -2,7 +2,7 @@
 
 ## PyTorch Contributor 
 
-I contribute to PyTorch by fixing upstream test failures, debugging CI issues, and improving backend reliability.
+I contribute to PyTorch by fixing upstream issues test failures, debugging CI issues, and improving backend reliability.
 
 ---
 
