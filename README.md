@@ -40,7 +40,7 @@ https://github.com/pytorch/pytorch/discussions?discussions_q=author%3Akumartanma
 
 ## Tech Stack
 
-Python • PyTorch • CUDA • Git • RHEL • CI/CD • Backend Systems • AI Agents
+Python • PyTorch • CUDA • C++ • RHEL • CI/CD • Backend Systems • AI Agents
 
 ---
 
